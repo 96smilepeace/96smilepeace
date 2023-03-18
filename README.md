@@ -1,15 +1,6 @@
-123
-
-<div align="justify">
-하이
-</div> 
-<p></p>
-<p align="justify">안녕</p>
+<h2 align="justify">👋🏻 Hi there!!</h2>
 
 ## skill 
-
-> 123
-
 <table>
   <tr>
     <td align="center" width="96">
