@@ -1,5 +1,5 @@
 <h2 align="center">👋🏻 Hi there!!</h2>
-<p align="center"><span style="font-size:16px;"><b>🚀 안녕하세요!! 주니어 개발자를 꿈꾸고 있는 하평안입니다.</b></span></p>
+<p align="center"><span style="font-size:24px;"><b>🚀 안녕하세요!! 주니어 개발자를 꿈꾸고 있는 하평안입니다.</b></span></p>
 </br>
 <p align="center">💬 Blog : <a href="https://velog.io/@smilepeace">https://velog.io/@smilepeace</a></p>
 <p align="center">💻 GitHub : <a href="https://github.com/96smilepeace">https://github.com/96smilepeace</a></p>
