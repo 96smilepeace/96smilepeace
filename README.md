@@ -4,7 +4,8 @@
 <p align="center">💻 GitHub : <a href="https://github.com/96smilepeace">https://github.com/96smilepeace</a></p>
 <p align="center">📩 Email : 96smilepeace@gmail.com</p>
 
-## Stack
+<p align="center">⚙️ Stack</p>
+##
 <div align="center">
 <table>
     <tr>
