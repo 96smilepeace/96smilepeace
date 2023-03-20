@@ -1,6 +1,6 @@
 <h2 align="justify">👋🏻 Hi there!!</h2>
 
-## skill
+## Stack
 <div align="center">
 <table>
     <tr>
