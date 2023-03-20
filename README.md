@@ -3,6 +3,7 @@
 ## skill
 <div align="center">
 <table>
+    <tr>
   <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -11,7 +12,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-  <tr>
     <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>Javascript
