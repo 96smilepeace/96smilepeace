@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>Javascript
     </td>
     <td align="center" width="96"> 
@@ -32,7 +32,7 @@
       <br>Tailwind
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
   </tr>
