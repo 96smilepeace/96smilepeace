@@ -1,5 +1,9 @@
 <h2 align="center">👋🏻 Hi there!!</h2>
-<p align="center">안녕하세요!! 주니어 개발자를 꿈꾸고 있는 하평안입니다.</p>
+<p align="center">💻 안녕하세요!! 주니어 개발자를 꿈꾸고 있는 하평안입니다. 🚀</p>
+<p align="center">blog : <a herf="https://velog.io/@smilepeace">https://velog.io/@smilepeace</a></p>
+<p align="center"></p>
+<p align="center"></p>
+<p align="center"></p>
 
 ## Stack
 <div align="center">
