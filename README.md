@@ -1,6 +1,7 @@
 <h1 align="center">👋🏻 Hi there!!</h1>
 <p align="center"><span style="font-size:30px"><b>🚀 안녕하세요!! 주니어 개발자를 꿈꾸고 있는 하평안입니다.</b></span></p>
 <p id="intro" align="center"><b>🚀 안녕하세요!! 주니어 개발자를 꿈꾸고 있는 하평안입니다.</b></p>
+<img src="https://img.shields.io/badge/Hello-World!-ff69b4">
 </br>
 <p align="center">💬 Blog : <a href="https://velog.io/@smilepeace">https://velog.io/@smilepeace</a></p>
 <p align="center">💻 GitHub : <a href="https://github.com/96smilepeace">https://github.com/96smilepeace</a></p>
@@ -76,19 +77,3 @@
 <div align="center">
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 </div>
-
-<script>
-function getRandomColor() {
-  var letters = '0123456789ABCDEF';
-  var color = '#';
-  for (var i = 0; i < 6; i++) {
-    color += letters[Math.floor(Math.random() * 16)];
-  }
-  return color;
-}
-
-var intro = document.getElementById("intro");
-setInterval(function() {
-  intro.style.color = getRandomColor();
-}, 1000);
-</script>
