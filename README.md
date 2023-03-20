@@ -1,6 +1,7 @@
 <h2 align="justify">👋🏻 Hi there!!</h2>
 
-## skill 
+## skill
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -35,7 +36,12 @@
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
   </tr>
 </table>
+</div>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
