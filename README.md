@@ -7,7 +7,6 @@
 </br>
 <h2 align="center">⚙️ Stack</h2>
 
-##
 <div align="center">
 <table>
     <tr>
