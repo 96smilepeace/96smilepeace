@@ -58,7 +58,7 @@
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=styledcomponents" width="48" height="48" alt="styledcomponents" />
-      <br>Styledcomponents
+      <br>SC
     </td>
   </tr>
 </table>
