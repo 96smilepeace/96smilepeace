@@ -77,9 +77,7 @@
 </br>
 </br>
 
-<div>
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=96smilepeace&show_icons=true&theme=radical)
-</div>
 
 <h2 align="center">🦖 Chrome Dino</h2>
 <div align="center">
