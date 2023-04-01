@@ -78,7 +78,7 @@
 </br>
 
 <div>
-    ![96smilepeace's github stats](https://github-readme-stats.vercel.app/api?username=96smilepeace&show_icons=true&theme=merko)
+   [![96smilepeace's GitHub stats](https://github-readme-stats.vercel.app/api?username=96smilepeace)](https://github.com/96smilepeace/github-readme-stats)
 </div>
 
 <h2 align="center">🦖 Chrome Dino</h2>
