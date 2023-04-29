@@ -4,7 +4,6 @@
 <p align="center"><span style="font-size:30px"><b>🚀 안녕하세요! 주니어 개발자 하평안 입니다.</b></span></p>
 </br>
 <p align="center">💬 Blog : <a href="https://velog.io/@smilepeace">https://velog.io/@smilepeace</a></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="20" height="20" alt="GitHub" /> GitHub : <a href="https://github.com/96smilepeace">https://github.com/96smilepeace</a></p>
 <p align="center">📩 Email : 96smilepeace@gmail.com</p>
 
 </br>
